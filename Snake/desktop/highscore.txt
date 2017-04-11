@@ -1,0 +1,1 @@
+fdh       ,200,LARGE,HARD:jggg      ,145,SMALL,HARD:b         ,50,SMALL,HARD:     ,46,SMALL,HARD:f         ,40,SMALL,MEDIUM:g         ,35,SMALL,HARD:kol       ,15,SMALL,HARD:y         ,0,MEDIUM,MEDIUM:-----,0,---,---:-----,0,---,---
